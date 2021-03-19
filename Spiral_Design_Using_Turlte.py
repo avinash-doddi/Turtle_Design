@@ -5,7 +5,7 @@ colors = ['orange', 'red', 'pink', 'yellow', 'blue', 'green'] """we can use any 
 screen = turtle.Screen()
 trtl = turtle.Turtle()
 trtl.speed(0)
-screen.bgcolor('black')
+screen.bgcolor('black') """this is background colour"""
 
 for x in range(360):
     trtl.pencolor(colors[x % 6]) """here we can decrease [x%6] to [x%5] or [x%4] to decrease the width of spiral"""
