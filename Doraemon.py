@@ -148,9 +148,9 @@ def head():
     circle(150, 280)
     end_fill()
 
-# 画哆啦A梦
+
 def Doraemon():
-    # 头部
+ 
     head()
 
     # 围脖
