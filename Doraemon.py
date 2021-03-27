@@ -52,7 +52,6 @@ def beard():
     seth(-13)
     fd(60)
 
-# 嘴巴
 def mouth():
     my_goto(5, 148)
     seth(270)
@@ -62,7 +61,7 @@ def mouth():
     seth(230)
     circle(-120, 100)
 
-# 围巾
+
 def scarf():
     fillcolor('#e70010')
     begin_fill()
@@ -77,7 +76,7 @@ def scarf():
     circle(-5, 90)
     end_fill()
 
-# 鼻子
+
 def nose():
     my_goto(-10, 158)
     seth(315)
@@ -86,7 +85,7 @@ def nose():
     circle(20)
     end_fill()
 
-# 黑眼睛
+
 def black_eyes():
     seth(0)
     my_goto(-20, 195)
@@ -111,7 +110,7 @@ def black_eyes():
 
 
 
-# 脸
+
 def face():
 
     fd(183)
@@ -139,7 +138,7 @@ def face():
     seth(180)
     fd(64)
 
-# 头型
+
 def head():
     penup()
     circle(150, 40)
