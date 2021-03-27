@@ -166,7 +166,7 @@ def Doraemon():
     # 胡须
     beard()
 
-    # 身体
+
     my_goto(0, 0)
     seth(0)
     penup()
