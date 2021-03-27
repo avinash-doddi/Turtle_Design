@@ -1,7 +1,7 @@
 from turtle import *
 
 
-#base
+#Base
 def my_goto(x, y):
     penup()
     goto(x, y)
@@ -157,7 +157,7 @@ def Doraemon():
 
     face()
 
-    # 红鼻子
+
     nose()
 
     # 嘴巴
