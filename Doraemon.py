@@ -224,7 +224,7 @@ def Doraemon():
     fd(40)
     end_fill()
 
-    # 左手
+  
     seth(70)
     fillcolor('#ffffff')
     begin_fill()
