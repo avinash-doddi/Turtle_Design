@@ -230,7 +230,6 @@ def Doraemon():
     circle(-30)
     end_fill()
 
-    # 脚
     my_goto(103.74, -182.59)
     seth(0)
     fillcolor('#ffffff')
