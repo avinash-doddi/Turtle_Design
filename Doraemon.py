@@ -160,7 +160,6 @@ def Doraemon():
 
     nose()
 
-    # 嘴巴
     mouth()
 
     # 胡须
