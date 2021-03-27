@@ -162,7 +162,6 @@ def Doraemon():
 
     mouth()
 
-    # 胡须
     beard()
 
 
@@ -252,7 +251,6 @@ def Doraemon():
     fd(10)
     end_fill()
 
-    # 右手
     my_goto(-133.97, -91.81)
     seth(50)
     fillcolor('#ffffff')
@@ -260,7 +258,6 @@ def Doraemon():
     circle(30)
     end_fill()
 
-    # 口袋
     my_goto(-103.42, 15.09)
     seth(0)
     fd(38)
@@ -277,7 +274,7 @@ def Doraemon():
     seth(0)
     fd(70)
 
-    #铃铛
+
     my_goto(-103.42, 15.09)
     fd(90)
     seth(70)
@@ -304,13 +301,12 @@ def Doraemon():
     dot(10)
     my_goto(0, -150)
 
-    # 画眼睛
     black_eyes()
 
 if __name__ == '__main__':
     screensize(800,600, "#f0f0f0")
-    pensize(3)  # 画笔宽度
-    speed(10)    # 画笔速度
+    pensize(3)  
+    speed(10) 
     Doraemon()
     my_goto(100, -300)
     write('by Avinash', font=("Dancing Script", 30, "bold"))
