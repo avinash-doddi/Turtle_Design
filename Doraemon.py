@@ -153,10 +153,8 @@ def Doraemon():
  
     head()
 
-    # 围脖
     scarf()
 
-    # 脸
     face()
 
     # 红鼻子
