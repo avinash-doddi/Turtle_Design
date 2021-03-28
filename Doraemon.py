@@ -221,7 +221,6 @@ def Doraemon():
     fd(40)
     end_fill()
 
-  
     seth(70)
     fillcolor('#ffffff')
     begin_fill()
