@@ -204,7 +204,6 @@ def Doraemon():
 
     # print(pos())
 
-
     circle(-30, 230)
     seth(45)
     fd(81)
