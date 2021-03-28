@@ -26,6 +26,7 @@ def eyes():
     tracer(True)
     end_fill()
 
+    
 def beard():
     my_goto(-32, 135)
     seth(165)
