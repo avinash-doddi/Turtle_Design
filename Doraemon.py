@@ -147,7 +147,6 @@ def head():
     circle(150, 280)
     end_fill()
 
-
 def Doraemon():
  
     head()
