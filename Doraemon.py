@@ -1,6 +1,6 @@
 #TO Draw Doraemoon Using Turtle (PYTHON)
 
-from turtle import * 
+from turtle import *
 
 #Base
 def my_goto(x, y):
