@@ -3,7 +3,6 @@
 from turtle import *
 
 #Base
-
 def my_goto(x, y):
     penup()
     goto(x, y)
