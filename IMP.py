@@ -4,7 +4,7 @@ a=float(a)
 b=float(b)
 c=a+0.50
 if c<=b and a%5==0:
-    
+    '''calc bal'''
     d=b-c
     print("{:.2f}".format(d))
 else:
