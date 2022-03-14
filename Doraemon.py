@@ -1,4 +1,4 @@
-#TO Draw Doraemoon Using Turtle (PYTHON)
+#TO Draw Doraemoon Using Turtle 
 
 from turtle import *
 
