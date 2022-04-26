@@ -9,7 +9,7 @@ def my_goto(x, y):
     pendown()
    
 def eyes():
-    fillcolor("#ffffff")
+    fillcolor("#ffffff") # fills the complete img.
     begin_fill()
 
     tracer(False)
